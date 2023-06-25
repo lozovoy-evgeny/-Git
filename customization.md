@@ -36,4 +36,4 @@
 
 [Вернуться](/installation.md)   
 [На основную](/readme.md)                 
-[Далее]()
+[Далее](/CreatingNewRepository.md)

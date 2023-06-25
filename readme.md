@@ -8,7 +8,7 @@ LICENSE: [MIT](./license.md)
 Содержание:
 1. [Основы](/theBasics.md)
 2. [Установка](/installation.md)
-3. [Настройка](customization.md)
+3. [Настройка](/customization.md)
 4. [Создание нового репозитория](/CreatingNewRepository.md)
 5. [Определение состояния](/DeterminingTheState.md)
 6. [Подготовка файлов](/Add.md)
@@ -16,7 +16,7 @@ LICENSE: [MIT](./license.md)
 8. [Удаленные репозитории](/RemoteRepositories.md)
 9. [Ветвление](/Branching.md)
 
-Оригинал статьи доступен на сайте http://tutorialzine.com
+Оригинал статьи доступен на сайте [http://tutorialzine.com]
 
 -----
 

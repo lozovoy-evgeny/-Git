@@ -20,4 +20,4 @@
 
 [Вернуться](/theBasics.md)    
 [На основную](/readme.md)                 
-[Далее](/installation.md)
+[Далее](/customization.md)
