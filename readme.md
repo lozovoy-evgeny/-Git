@@ -16,7 +16,7 @@ LICENSE: [MIT](./license.md)
 8. [Удаленные репозитории](/RemoteRepositories.md)
 9. [Ветвление](/Branching.md)
 
-Оригинал статьи доступен на сайте [http://tutorialzine.com]
+Оригинал статьи доступен на сайте http://tutorialzine.com
 
 -----
 
